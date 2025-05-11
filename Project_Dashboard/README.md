@@ -1,7 +1,7 @@
 # 📈 Superstore Dashboard — Technical Overview
 
 This folder contains the Tableau workbook file for the Superstore Dashboard project.
-![Image](https://github.com/user-attachments/assets/cc41f4e4-f6af-42a7-b3b1-d788e9820ee7)
+![Image](https://github.com/user-attachments/assets/c889d1d2-e1d6-4ec2-b45f-436545e304d6)
 
 ## 📌 Objective
 To visualize sales data in a way that highlights key performance indicators, identifies high-performing segments and products, explores sales and profit trends over time, and presents geographical distribution of sales and profit through a map view.
