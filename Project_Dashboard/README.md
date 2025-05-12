@@ -20,6 +20,7 @@ To visualize sales data in a way that highlights key performance indicators, ide
 - 💡 **Insights Gained**: Provides quick understanding of overall business health, with noticeable increases or drops helping to guide further analysis.
 
 ### 📊 Bar Chart – Segment, Category, and Top 10 Sub-Category
+![Image](https://github.com/user-attachments/assets/11338eee-48e3-4827-a251-62a26164e8e0)
 - 📊 **Dashboard Feature**: Displays sales and profit performance across three business levels: Segment, Category, and Sub-Category.
 - 📌 **Design Choice**: Segment & Category: Simple horizontal bar charts for easy comparison across fewer groups. Top 10 Sub-Category: Focused view to highlight only the best-performing sub-categories, improving clarity and impact.
 - 🔍 **Sorting Logic**: All charts sorted in descending order by sales to emphasize the most impactful areas first.
@@ -47,6 +48,7 @@ To visualize sales data in a way that highlights key performance indicators, ide
 - 💡 **Insights Gained**: Highlights sales peaks and dips, enabling businesses to identify recurring patterns or anomalies throughout the year.
 
 ### 📄 Order Details Table
+![Image](https://github.com/user-attachments/assets/2956724d-c444-4166-a715-0d99f3d02d6d)
 - 📊 **Dashboard Feature**: An interactive table displaying detailed order-level data including product name, category, segment, quantity, sales, and profit.
 - 🔧 **Design Choice**: A tabular format allows users to deep-dive into individual transactions beyond aggregated visuals.
 - 🔍 **Filter & Interaction**: Linked to parameters and filters from the main dashboard, ensuring consistency across views.
