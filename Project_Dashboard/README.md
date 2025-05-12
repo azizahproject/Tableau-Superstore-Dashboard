@@ -8,18 +8,7 @@ To visualize sales data in a way that highlights key performance indicators, ide
 
 ## 🛠️ Tools & Files
 - **Tool**: Tableau
-- **File**: [Superstore Dashboard#1.twbx](https://github.com/azizahproject/Tableau-Superstore-Dashboard/blob/main/Project_Dashboard/Superstore%20Dashboard%20%231.twbx) — contains all visualizations and dashboard layouts.
-
-## ⚙️ Data & Structure
-The data used is a cleaned sample sales dataset (Superstore Dataset), structured with fields like:
-- 🧑🏻‍💼**Customers**
-  - Customer ID | Customer Name
-- 🗺**Location**
-  - Postal Code | City | State | Region | Country/Region
-- 📝**Orders**
-  - Row ID | Order ID | Order Date | Ship Date | Ship Mode | Customer ID | Segment | Postal Code | Product ID | Sales | Quantity | Discount | Profit
-- 📷**Products**
-  - Product ID | Category | Sub-Category | Product Name
+- **File**: [Superstore Dashboard#1.twbx](https://github.com/azizahproject/Tableau-Superstore-Dashboard/blob/main/Project_Dashboard/Superstore%20Dashboard%20%231.twbx) — contains all visualizations and dashboard layouts. [Superstore Dataset](https://github.com/azizahproject/Tableau-Superstore-Dashboard/tree/main/0_Resources/Dataset) — contains all data.
 
 ## ⚙️ Dashboard Build
 
