@@ -8,7 +8,7 @@ To visualize sales data in a way that highlights key performance indicators, ide
 
 ## 🛠️ Tools & Files
 - **Tool**: Tableau
-- **File**: [Superstore Dashboard#1.twbx](https://github.com/azizahproject/Tableau-Superstore-Dashboard/blob/main/Project_Dashboard/Superstore%20Dashboard%20%231.twbx) — contains all visualizations and dashboard layouts. [Superstore Dataset](https://github.com/azizahproject/Tableau-Superstore-Dashboard/tree/main/0_Resources/Dataset) — contains all data.
+- **File**: [Superstore Dashboard#1.twbx](https://github.com/azizahproject/Tableau-Superstore-Dashboard/blob/main/1_Project_Dashboard/Superstore%20Dashboard%20%231.twbx) — contains all visualizations and dashboard layouts. [Superstore Dataset](https://github.com/azizahproject/Tableau-Superstore-Dashboard/tree/main/0_Resources/Dataset) — contains all data.
 
 ## ⚙️ Dashboard Build
 
