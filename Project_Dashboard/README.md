@@ -8,24 +8,7 @@ To visualize sales data in a way that highlights key performance indicators, ide
 
 ## 🛠️ Tools & Files
 - **Tool**: Tableau
-- **File**: `Superstore Dashboard#1.twbx` — contains all visualizations and dashboard layouts.
-
-## 📉 Dashboard Elements
-
-### 📍 Page 1 — Analysis Overview
-This page provides a high-level summary of the overall sales and profit performance, including:
-- **KPI Cards**: Total Sales, Profit, Orders, and Customers (YoY comparison)
-- **Bar Charts**:
-  - Sales and Profit by Segment
-  - Sales and Profit by Category
-  - Top 10 Sub-Categories by Sales
-- **Product Table**: Top 10 best-selling products by Sales and Profit
-- **Sales & Profit Map**: Geographic distribution across U.S. states
-- **Weekly Trend Chart**: Sales and Profit trends over time
-
-### 📍 Page 2 — Order Detail
-This page allows users to explore more detailed order-level data:
-- **Order Table**: Table showing order ID, customer name, order date, state, ship mode, quantity, sales, and profit.
+- **File**: [Superstore Dashboard#1.twbx](https://github.com/azizahproject/Tableau-Superstore-Dashboard/blob/main/Project_Dashboard/Superstore%20Dashboard%20%231.twbx) — contains all visualizations and dashboard layouts.
 
 ## ⚙️ Data & Structure
 The data used is a cleaned sample sales dataset (Superstore Dataset), structured with fields like:
@@ -38,12 +21,10 @@ The data used is a cleaned sample sales dataset (Superstore Dataset), structured
 - 📷**Products**
   - Product ID | Category | Sub-Category | Product Name
 
-
-All visualizations are designed with a clean, user-friendly layout to help users quickly explore insights.
-
 ## ⚙️ Dashboard Build
 
 ### 📊 KPI Cards
+![Image](https://github.com/user-attachments/assets/7ac890f8-23c7-432f-b499-0e77e4fa5c41)
 - 🛠️ **Dashboard Feature**: Includes four key KPI cards — Total Sales, Total Profit, Total Orders, and Total Customers.
 - 📈 **Comparison Logic**: Each KPI compares the selected year with the previous year to highlight growth or decline.
 - 📉 **Trend Visualization**: Sparklines added for each KPI to display performance over time at a glance.
