@@ -20,4 +20,4 @@ I created this as a personal learning project to build my data visualization ski
 ---
 
 ➡️ View the dashboard [on Tableau Public](https://public.tableau.com/views/SuperstoreDashboard1_17464702977070/Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📂 For details and structure, see [Project_Dashboard/README.md](https://github.com/azizahproject/Tableau-Superstore-Dashboard/tree/main/Project_Dashboard)
+📂 For details and structure, see [Project_Dashboard/README.md](https://github.com/azizahproject/Tableau-Superstore-Dashboard/tree/main/1_Project_Dashboard)
